@@ -1,3 +1,3 @@
 # hello-world1
 My first repository
-I like cats, sleep and coffee. I am a student. My flat mates make me angry >:(
+I like cats, sleep and coffee. I am a student. 
